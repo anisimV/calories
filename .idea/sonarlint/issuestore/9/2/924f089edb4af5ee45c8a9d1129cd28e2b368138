@@ -1,0 +1,10 @@
+
+R
+java:S6880"6Replace the chain of if/else with a switch expression.(ü¥å}8ÔŸÙµ2
+G	java:S106"+Replace this use of System.out by a logger.(ÙÁÑÉ8ØŸÙµ2
+G	java:S106"+Replace this use of System.out by a logger.(ª¤ğå8ÙŸÙµ2
+G	java:S106 "+Replace this use of System.out by a logger.(×ã¬•8ÚŸÙµ2
+F	java:S106!"+Replace this use of System.out by a logger.(ÛÓU8ÚŸÙµ2
+L	java:S106""+Replace this use of System.out by a logger.( ›¡¹øÿÿÿÿ8ÛŸÙµ2
+G	java:S106#"+Replace this use of System.out by a logger.(­¨¹Ç8ÛŸÙµ2
+L	java:S106$"+Replace this use of System.out by a logger.(Î“øûüÿÿÿÿ8ÜŸÙµ2
